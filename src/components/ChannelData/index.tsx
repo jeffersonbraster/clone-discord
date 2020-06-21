@@ -26,7 +26,7 @@ const ChannelData: React.FC = () => {
 
         <ChannelMessage author="André Brandão" date="21/06/2020" content={
         <>
-          <Mention>@Jefferson Brandão</Mention>, Eu adoro testar o Rafael!
+          <Mention>@Jefferson Brandão</Mention>, Você tem um novo E-mail.
         </>
         }
         isBot
